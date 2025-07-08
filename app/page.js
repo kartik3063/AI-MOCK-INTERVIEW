@@ -117,7 +117,7 @@ const page = () => {
       </main>
 
       <footer className="py-8 bg-black text-white text-center">
-        <p>© 2024 Crack My Interview. All rights reserved to Anish Sinha.</p>
+        <p>© 2024 Crack My Interview. All rights reserved to Kartikay Pal.</p>
       </footer>
     </div>
   )
